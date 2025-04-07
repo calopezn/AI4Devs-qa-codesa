@@ -1,0 +1,28 @@
+{
+  "positionId": 1,
+  "title": "Desarrollador Frontend",
+  "stages": [
+    {
+      "id": 1,
+      "title": "Entrevista Inicial",
+      "candidates": [
+        {
+          "id": "1",
+          "name": "Juan Pérez",
+          "applicationId": 101,
+          "currentInterviewStep": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Entrevista Técnica",
+      "candidates": []
+    },
+    {
+      "id": 3,
+      "title": "Entrevista Final",
+      "candidates": []
+    }
+  ]
+} 
